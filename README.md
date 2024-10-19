@@ -1,6 +1,6 @@
 É com muita alegria e orgulho que compartilho com vocês o meu jogo. Como é gratificante concluir um projeto!
 
-O jogo é inspirado no filme "Detona Ralph". O seu desenvolvimento é uma das tarefas do Bootcamp Potência Tech iFood - Desenvolvimento de Jogos.
+O jogo é inspirado no filme "Detona Ralph". 
 
 Adicionei as seguintes modificações:
 
